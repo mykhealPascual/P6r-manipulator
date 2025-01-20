@@ -1,0 +1,21 @@
+-DH parameters of a 4-chain in symbolic notation
+- delete (non parametrized hyperplanes) -> 2 parameters set of hyperplanes
+-combine 2 chain with left chain
+- remove line 5 
+	fix a value to any one of the joint parameters change u_1i u_2i to u_1 u_2 w
+-make aline in algo such that it checks if g1 and g2 is equal to zero
+
+
+- define 
+	
+	refer linear forms to art's paper	
+F1-F6
+	implication of Resultant why =0 and \neq 0
+	why stop g1 or g2 = 0
+	p7 wkento
+ galing thesis frommaffine to eme eme
+	LINE 25; dosenot eepresent any rigid transofomarion inside study
+	hindi kasama caramers sa discussion
+	
+
+	

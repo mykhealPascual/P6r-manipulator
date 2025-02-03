@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Inverse Kinematics Example Implementation
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: 'Mykheal '
+    family-names: Pascual
+    affiliation: University of the Philippines- Baguio
+    email: mcpascual4@up.edu.ph
+  - given-names: Art Eloise
+    family-names: Beltran
+    email: aibeltran@up.edu.ph
+    affiliation: University of the Philippines- Baguio
+identifiers:
+  - type: url
+    value: 'https://github.com/mykhealPascual/P6r-manipulator'
+    description: examples of codes
+keywords:
+  - Inverse kinematics
+  - general serial manipulator
+version: '1.0'
+date-released: '2025-01-07'
